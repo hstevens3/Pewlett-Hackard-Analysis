@@ -12,7 +12,7 @@ This challenge is to prepare reports (lists) of employees nearing retirement at 
 ---
 - Only 2 of the employees retiring are Managers, but over 50,000 of the employees retiring are Senior Level. See the table below for the breakdown by Title.
 
-![Count of Retiring by Title ](/Resources/Count Retirees by Title.png)
+![Count of Retiring by Title ](/Resources/"Count%20Retirees%20by%20Title.png)
 
 ---
 
@@ -28,4 +28,4 @@ This challenge is to prepare reports (lists) of employees nearing retirement at 
  72,458 roles will need to be filled as the "silver tsunami" begins to make an impact. There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees since there are only 1549 employees to mentor.
 
 ---
-For additional analysis, it would be helpful to query how many employees in each department need mentoring and similarly for the list of retiring, assuming that all departments should have at least retiree match to a mentee within that department. since the number of employees in the mentor program list is fairly small, maybe expanding the birth date range to include 1966 or even 1967 would be helpful to see how many that would add.
+For additional analysis, it would be helpful to query how many employees in each department need mentoring and similarly for the list of retiring, assuming that all departments should have at least one retiree match to a mentee within that department. Since the number of employees in the mentor program list is fairly small, maybe expanding the birth date range to include 1966 or even 1967 would be helpful to see how many employees that would add.
