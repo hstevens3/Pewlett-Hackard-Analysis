@@ -12,7 +12,7 @@ This challenge is to prepare reports (lists) of employees nearing retirement at 
 ---
 - Only 2 of the employees retiring are Managers, but over 50,000 of the employees retiring are Senior Level. See the table below for the breakdown by Title.
 
-![Count of Retiring by Title ](/Resources/"Count&#32;Retirees&#32;by&#32;Title.png)
+![Count of Retiring by Title ](/Resources/"CountRetireesbyTitle.png)
 
 ---
 
@@ -29,3 +29,5 @@ This challenge is to prepare reports (lists) of employees nearing retirement at 
 
 ---
 For additional analysis, it would be helpful to query how many employees in each department need mentoring and similarly for the list of retiring, assuming that all departments should have at least one retiree match to a mentee within that department. Since the number of employees in the mentor program list is fairly small, maybe expanding the birth date range to include 1966 or even 1967 would be helpful to see how many employees that would add.
+
+:+1: Need a tip on how to deal with spaces in image filenames.
