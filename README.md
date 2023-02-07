@@ -12,7 +12,7 @@ This challenge is to prepare reports (lists) of employees nearing retirement at 
 ---
 - Only 2 of the employees retiring are Managers, but over 50,000 of the employees retiring are Senior Level. See the table below for the breakdown by Title.
 
-![Count of Retiring by Title ](/Resources/"CountRetireesbyTitle.png)
+![Count of Retiring by Title](/Resources/CountRetireesbyTitle.png)
 
 ---
 
